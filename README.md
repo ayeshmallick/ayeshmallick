@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hello there 👋, I'm Ayeshkant Mallick</h1>
-<h3 align="center">Architect of the digital unknown. A software developer from India.</h3>
+<h3 align="center">Architect of the digital unknown. A Software Developer from India.</h3>
 
 - 🎓 Master of Applied Computing Student @ University of Windsor
 
